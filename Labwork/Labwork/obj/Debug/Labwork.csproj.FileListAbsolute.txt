@@ -1,0 +1,10 @@
+c:\users\nathan\documents\visual studio 2012\Projects\Labwork\Labwork\bin\Debug\Labwork.exe.config
+c:\users\nathan\documents\visual studio 2012\Projects\Labwork\Labwork\bin\Debug\Labwork.exe
+c:\users\nathan\documents\visual studio 2012\Projects\Labwork\Labwork\bin\Debug\Labwork.pdb
+c:\users\nathan\documents\visual studio 2012\Projects\Labwork\Labwork\obj\Debug\Labwork.csprojResolveAssemblyReference.cache
+c:\users\nathan\documents\visual studio 2012\Projects\Labwork\Labwork\obj\Debug\Labwork.Form1.resources
+c:\users\nathan\documents\visual studio 2012\Projects\Labwork\Labwork\obj\Debug\Labwork.Properties.Resources.resources
+c:\users\nathan\documents\visual studio 2012\Projects\Labwork\Labwork\obj\Debug\Labwork.csproj.GenerateResource.Cache
+c:\users\nathan\documents\visual studio 2012\Projects\Labwork\Labwork\obj\Debug\Labwork.exe
+c:\users\nathan\documents\visual studio 2012\Projects\Labwork\Labwork\obj\Debug\Labwork.pdb
+c:\users\nathan\documents\visual studio 2012\Projects\Labwork\Labwork\obj\Debug\Labwork.States.resources

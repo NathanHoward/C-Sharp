@@ -1,0 +1,9 @@
+c:\users\nathan\documents\visual studio 2012\Projects\FuzzyDice\FuzzyDice\bin\Debug\FuzzyDice.exe.config
+c:\users\nathan\documents\visual studio 2012\Projects\FuzzyDice\FuzzyDice\bin\Debug\FuzzyDice.exe
+c:\users\nathan\documents\visual studio 2012\Projects\FuzzyDice\FuzzyDice\bin\Debug\FuzzyDice.pdb
+c:\users\nathan\documents\visual studio 2012\Projects\FuzzyDice\FuzzyDice\obj\Debug\FuzzyDice.csprojResolveAssemblyReference.cache
+c:\users\nathan\documents\visual studio 2012\Projects\FuzzyDice\FuzzyDice\obj\Debug\FuzzyDice.Form1.resources
+c:\users\nathan\documents\visual studio 2012\Projects\FuzzyDice\FuzzyDice\obj\Debug\FuzzyDice.Properties.Resources.resources
+c:\users\nathan\documents\visual studio 2012\Projects\FuzzyDice\FuzzyDice\obj\Debug\FuzzyDice.csproj.GenerateResource.Cache
+c:\users\nathan\documents\visual studio 2012\Projects\FuzzyDice\FuzzyDice\obj\Debug\FuzzyDice.exe
+c:\users\nathan\documents\visual studio 2012\Projects\FuzzyDice\FuzzyDice\obj\Debug\FuzzyDice.pdb

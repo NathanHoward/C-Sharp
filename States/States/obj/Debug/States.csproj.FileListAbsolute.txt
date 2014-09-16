@@ -1,0 +1,8 @@
+c:\users\nathan\documents\visual studio 2012\Projects\States\States\bin\Debug\States.exe.config
+c:\users\nathan\documents\visual studio 2012\Projects\States\States\bin\Debug\States.exe
+c:\users\nathan\documents\visual studio 2012\Projects\States\States\bin\Debug\States.pdb
+c:\users\nathan\documents\visual studio 2012\Projects\States\States\obj\Debug\States.Form1.resources
+c:\users\nathan\documents\visual studio 2012\Projects\States\States\obj\Debug\States.Properties.Resources.resources
+c:\users\nathan\documents\visual studio 2012\Projects\States\States\obj\Debug\States.csproj.GenerateResource.Cache
+c:\users\nathan\documents\visual studio 2012\Projects\States\States\obj\Debug\States.exe
+c:\users\nathan\documents\visual studio 2012\Projects\States\States\obj\Debug\States.pdb
